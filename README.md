@@ -7,6 +7,8 @@ features -: booking their customise Trip, Booking Group travel packages, contact
 
 Programming language -: HTML, CSS, Bootstrap, PHP, Mysql <br>
 
+<h4>Outputs</h4>
+
 <img src = "https://github.com/pratik9933/tour-travel-website/assets/130751686/896140b2-7d4d-4c17-a437-94e92d6f849d" height="300px" width="300px">
 <img src = "https://github.com/pratik9933/tour-travel-website/assets/130751686/f8da4bc0-946c-4fc5-a0f4-49c87a55d263" height="300px" width="300px">
 <img src = "https://github.com/pratik9933/tour-travel-website/assets/130751686/94ad3209-a59e-4a80-8e17-045e8a9d1c9b" height="300px" width="300px">
