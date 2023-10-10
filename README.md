@@ -1,11 +1,18 @@
 # Tour & Travel Website
 
-Following project are demo and my collage intern project where we get a task to create a website which are backend support of php that for reason I choose following project where a complete a tour company web portfolio like website to built with good looking and UI where i provide necessery requiremnets for travel agency website and their coustomer need to scroll out topics 
-this are multifunctional and User (customer) controlled 
+"The following projects are demonstrations and were part of my college internship. During this internship, I was tasked with creating a website that provides backend support using PHP. For this reason, I chose to work on the following project, which involves building a tour company web portfolio with an attractive and user-friendly interface. I provided the necessary requirements for a travel agency website, and customers can scroll through various topics."
 
-features -: booking their customise Trip, Booking Group travel packages, contact form , paymnet gate way , User profile and activity page 
+This website is multifunctional and user-controlled, with features including:
+- Booking customized trips
+- Booking group travel packages
+- Contact forms
+- Payment gateway
+- User profiles
+- Activity pages
 
-Programming language -: HTML, CSS, Bootstrap, PHP, Mysql <br>
+Programming languages used for this project include HTML, CSS, Bootstrap, PHP, and MySQL.
+
+<br>
 
 <h4>Outputs</h4>
 
